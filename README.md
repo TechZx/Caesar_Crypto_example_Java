@@ -1,6 +1,5 @@
 # Caesar_Crypto_example_Java
-@Author:TechZx
-@Author:PashalisTsirts
+@Author:TechZx , @PashalisTsirts
 
 
 
