@@ -3,4 +3,4 @@
 
 
 
-This is a simple example for understanding how Ceasar Cryptography works using an encryption key of choice
+This is a simple example for understanding how Ceasar Cryptography works using an encryption key of your choice.
